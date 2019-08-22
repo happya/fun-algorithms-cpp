@@ -6,35 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/Projects/cpp/graph-algorithms/GraphBasic/AdjList.h
-iostream
--
-vector
--
-string
--
-fstream
--
-cassert
--
-algorithm
--
-
-D:/Projects/cpp/graph-algorithms/GraphBasic/AdjMatrix.h
-iostream
--
-vector
--
-string
--
-fstream
--
-cassert
--
-algorithm
--
-
-D:/Projects/cpp/graph-algorithms/GraphBasic/AdjSet.h
+D:/Projects/cpp/graph-algorithms/GraphBasic/Graph.h
 iostream
 -
 vector
@@ -63,10 +35,6 @@ cassert
 -
 algorithm
 -
-AdjList.h
-D:/Projects/cpp/graph-algorithms/GraphBasic/AdjList.h
-AdjMatrix.h
-D:/Projects/cpp/graph-algorithms/GraphBasic/AdjMatrix.h
-AdjSet.h
-D:/Projects/cpp/graph-algorithms/GraphBasic/AdjSet.h
+Graph.h
+D:/Projects/cpp/graph-algorithms/GraphBasic/Graph.h
 

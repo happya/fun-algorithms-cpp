@@ -3,4 +3,4 @@ project(GraphBasic)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(GraphBasic main.cpp AdjMatrix.h AdjList.h AdjSet.h)
+add_executable(GraphBasic main.cpp AdjMatrix.h AdjList.h AdjSet.h Graph.h)

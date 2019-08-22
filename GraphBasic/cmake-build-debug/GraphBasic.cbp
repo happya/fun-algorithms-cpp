@@ -89,6 +89,9 @@
 		<Unit filename="D:/Projects/cpp/graph-algorithms/GraphBasic/AdjSet.h">
 			<Option target="GraphBasic"/>
 		</Unit>
+		<Unit filename="D:/Projects/cpp/graph-algorithms/GraphBasic/Graph.h">
+			<Option target="GraphBasic"/>
+		</Unit>
 		<Unit filename="D:/Projects/cpp/graph-algorithms/GraphBasic/main.cpp">
 			<Option target="GraphBasic"/>
 		</Unit>
