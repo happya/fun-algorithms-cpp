@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/GraphBasic.dir/main.cpp.obj"
+  "CMakeFiles/GraphBasic.dir/main.cpp.o"
+  "GraphBasic"
   "GraphBasic.pdb"
-  "GraphBasic.exe"
-  "GraphBasic.exe.manifest"
-  "libGraphBasic.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

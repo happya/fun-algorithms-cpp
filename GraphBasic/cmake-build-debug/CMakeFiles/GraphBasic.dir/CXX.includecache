@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/Projects/cpp/graph-algorithms/GraphBasic/Graph.h
+/Users/wcm/Projects/graph-algorithms/GraphBasic/Graph.h
 iostream
 -
 vector
@@ -22,7 +22,7 @@ cassert
 algorithm
 -
 
-D:/Projects/cpp/graph-algorithms/GraphBasic/main.cpp
+/Users/wcm/Projects/graph-algorithms/GraphBasic/main.cpp
 iostream
 -
 vector
@@ -36,5 +36,5 @@ cassert
 algorithm
 -
 Graph.h
-D:/Projects/cpp/graph-algorithms/GraphBasic/Graph.h
+/Users/wcm/Projects/graph-algorithms/GraphBasic/Graph.h
 

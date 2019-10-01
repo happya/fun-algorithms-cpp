@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Projects/cpp/graph-algorithms/GraphBasic/main.cpp" "D:/Projects/cpp/graph-algorithms/GraphBasic/cmake-build-debug/CMakeFiles/GraphBasic.dir/main.cpp.obj"
+  "/Users/wcm/Projects/graph-algorithms/GraphBasic/main.cpp" "/Users/wcm/Projects/graph-algorithms/GraphBasic/cmake-build-debug/CMakeFiles/GraphBasic.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
