@@ -1,0 +1,3 @@
+D:/Projects/cpp/graph-algorithms/SortAlgo/cmake-build-debug/CMakeFiles/SortAlgo.dir
+D:/Projects/cpp/graph-algorithms/SortAlgo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/cpp/graph-algorithms/SortAlgo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
