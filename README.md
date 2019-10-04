@@ -19,7 +19,7 @@ APIs:
     - `default`: normal random data;
     - `nearlyOrdered`: random but nearly ordered data;
     - `identical`: identical data with a random value.
-  - ``AlgoData(n, randomBound)`:  equals to `AlgoData(n, randomBound, 'default')`
+  - `AlgoData(n, randomBound)`:  equals to `AlgoData(n, randomBound, 'default')`
   - `getSize`: return size of the dataset;
   - `getData(i)`: get data at index of `i`
   - `setData(i, d)`: set data at index of `i` to be `d`
