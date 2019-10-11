@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projects/cpp/graph-algorithms/SortAlgo/Heap.h
+vector
+-
+
+D:/Projects/cpp/graph-algorithms/SortAlgo/SortAlgo.h
+random
+-
+ctime
+-
+cassert
+-
+vector
+-
+algorithm
+-
+Heap.h
+D:/Projects/cpp/graph-algorithms/SortAlgo/Heap.h
+
+D:/Projects/cpp/graph-algorithms/SortAlgo/main.cpp
+iostream
+-
+SortAlgo.h
+D:/Projects/cpp/graph-algorithms/SortAlgo/SortAlgo.h
+
