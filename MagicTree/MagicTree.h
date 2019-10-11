@@ -14,6 +14,7 @@ private:
     TreeNode* left;
     TreeNode* right;
 public:
+    TreeNode(Item item):value(item), left(NULL), right(NULL) {}
     Item getValue() {
         return value;
     }
@@ -22,6 +23,33 @@ public:
     }
     TreeNode* getRight() {
         return right;
+    }
+    void setLeft(TreeNode*  node) {
+        left = node;
+    }
+    void setRight(TreeNode* node) {
+        right = node;
+    }
+};
+
+template <typename Item>
+class BST {
+private:
+    typedef TreeNode<Item> Node;
+    Node* root;
+public:
+    BST(Item item) {
+        root = new Node(item);
+    }
+    void insertKey(Item item) {
+        if (!root) {
+            root = new Node(item);
+            return;
+        }
+        if (item < root->getValue())
+            root->getLeft()->insertKey(item);
+        else if (item > root->getValue())
+            root->getRight()->insertkey(item);
     }
 };
 
@@ -48,11 +76,11 @@ class BTree {
 private:
     typedef BTreeNode<KeyType> BNode;
     typedef BNode* BNodeLink;
-    BTreeNodeLink root;
+    BNodeLink root;
     int L;
 public:
     BTree(int LVal):L(LVal) {
-        BTreeNodeLink root = new BNode(LVal);
+        BNodeLink root = new BNode(LVal);
     }
     ~BTree(){}
     BNodeLink searchKey(KeyType key);
