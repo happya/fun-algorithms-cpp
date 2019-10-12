@@ -12,13 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63092061-d0d7-4ca5-bce2-4ed4942d8c6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MagicTree/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MagicTree/BST.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MagicTree/BST.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MagicTree/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MagicTree/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MagicTree/MagicTree.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MagicTree/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MagicTree/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MagicTree/BST.h" beforeDir="false" afterPath="$PROJECT_DIR$/../MagicTree/BST.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MagicTree/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../MagicTree/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
