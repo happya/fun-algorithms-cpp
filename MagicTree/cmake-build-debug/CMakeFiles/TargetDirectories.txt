@@ -1,3 +1,0 @@
-D:/Projects/cpp/graph-algorithms/MagicTree/cmake-build-debug/CMakeFiles/MagicTree.dir
-D:/Projects/cpp/graph-algorithms/MagicTree/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Projects/cpp/graph-algorithms/MagicTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
